@@ -1,7 +1,7 @@
 # Portfolio
 About Me
 
-I’m Raj Rangwani, a 3rd year B.Tech CSE student at Parul University. I’m interested in web development and enjoy creating clean, responsive and user-friendly websites. This portfolio represents my skills, projects and overall learning journey.
+I’m Raj Rangwani, a B.Tech CSE student at Parul University. I’m interested in web development and enjoy creating clean, responsive and user-friendly websites. This portfolio represents my skills, projects and overall learning journey.
 
 Live Demo
 
